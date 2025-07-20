@@ -1,4 +1,4 @@
-# Hacktiv8-Gemini-Chatbot-API
+# Gemini-Chatbot-API
 
 The AI acts as the brain for the chatbot, creating the conversational replies.
 1. The user sends a message from the frontend.
